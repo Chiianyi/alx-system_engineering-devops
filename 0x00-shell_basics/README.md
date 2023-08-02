@@ -11,3 +11,6 @@ THIS README IS CREATED TO DOCUMENT WHAT MY SHELL SCRIPTS CONTAIN
 
 3-listfiles
 >ls -l
+
+4-listmorefiles
+>ls -al
