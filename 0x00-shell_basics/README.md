@@ -35,3 +35,6 @@ THIS README IS CREATED TO DOCUMENT WHAT MY SHELL SCRIPTS CONTAIN
 
 11-lists
 >ls -al . .. /boot
+
+12-file_type
+>file /tmp/iamafile
