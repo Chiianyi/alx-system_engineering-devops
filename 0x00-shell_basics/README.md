@@ -14,3 +14,6 @@ THIS README IS CREATED TO DOCUMENT WHAT MY SHELL SCRIPTS CONTAIN
 
 4-listmorefiles
 >ls -al
+
+5-listfilesdigitonly
+>ls -lna 
