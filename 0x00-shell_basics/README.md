@@ -8,3 +8,6 @@ THIS README IS CREATED TO DOCUMENT WHAT MY SHELL SCRIPTS CONTAIN
 
 2-bring_me_home
 >cd ~
+
+3-listfiles
+>ls -l
