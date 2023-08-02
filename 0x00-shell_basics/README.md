@@ -23,3 +23,6 @@ THIS README IS CREATED TO DOCUMENT WHAT MY SHELL SCRIPTS CONTAIN
 
 7-movethatfile
 >mv /tmp/betty /tmp/my_first_directory
+
+8-firstdelete
+rm /tmp/my_first_directory/betty
