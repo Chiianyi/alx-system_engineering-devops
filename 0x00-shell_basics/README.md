@@ -25,10 +25,13 @@ THIS README IS CREATED TO DOCUMENT WHAT MY SHELL SCRIPTS CONTAIN
 >mv /tmp/betty /tmp/my_first_directory
 
 8-firstdelete
-rm /tmp/my_first_directory/betty
+>rm /tmp/my_first_directory/betty
 
 9-firstdirdeletion
-rm -r /tmp/my_first_directory
+>rm -r /tmp/my_first_directory
 
 10-back
-cd -
+>cd -
+
+11-lists
+>ls -al . .. /boot
