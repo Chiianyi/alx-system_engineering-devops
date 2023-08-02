@@ -16,4 +16,7 @@ THIS README IS CREATED TO DOCUMENT WHAT MY SHELL SCRIPTS CONTAIN
 >ls -al
 
 5-listfilesdigitonly
->ls -lna 
+>ls -lna
+
+6-firstdirectory
+>mkdir /tmp/my_first_directory 
