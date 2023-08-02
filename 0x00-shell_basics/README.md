@@ -29,3 +29,6 @@ rm /tmp/my_first_directory/betty
 
 9-firstdirdeletion
 rm -r /tmp/my_first_directory
+
+10-back
+cd -
